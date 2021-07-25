@@ -16,3 +16,4 @@ Nesta aula construímos testes unitários com o [Jest](https://jestjs.io/pt-BR/)
 - Instale as dependências com yarn
 - Rode os testes com yarn test
 - Agora você pode acessar localhost:3000 do seu navegador.
+- Você também pode acessar <a href="https://ignews-matheuslanduci.vercel.app">ignews-matheuslanduci.vercel.app</a> ;)
